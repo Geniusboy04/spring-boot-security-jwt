@@ -5,5 +5,5 @@
     http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="movieService" class="com.example.demo.repository.MovieRepository" abstract="true"/>
+    <bean id="movieService" class="com.example.demo.repository.UserRepository" abstract="true"/>
 </beans>
