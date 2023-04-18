@@ -1,2 +1,2 @@
 ### Java Spring Security JWT 
-I use Swagger test for testing security !!
+I use Swagger Ui for testing security !!
